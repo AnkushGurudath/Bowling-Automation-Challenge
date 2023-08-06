@@ -9,6 +9,13 @@ A Bowling game calculator developed using Java originally in Intellij IDE
 - A strike followed by a 3 and a 4 should score 24
 - The perfect game (12 times 10) should score 300
 
+**Rules:**
+- The game consists of 10 frames as shown above.
+- In each frame the player has two opportunities to knock down 10 pins.
+- The score for the frame is the total number of pins knocked down, plus bonuses for strikes and spares.
+- In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame. However no more than three balls can be rolled in tenth frame.
+
+
 **Things to know:**
 - The code takes user input
 - While providing the input make sure to give numbers from 0 to 10 for each round in every frame.
