@@ -3,11 +3,11 @@
 A Bowling game calculator developed using Java originally in Intellij IDE
 
 **Conditions used while calculating the score:**
-• A gutter game (20 times 0 pin) should score 0
-• An all one game (20 times 1 pin) should score 20
-• A spare followed by a 3 should score 16
-• A strike followed by a 3 and a 4 should score 24
-• The perfect game (12 times 10) should score 300
+- A gutter game (20 times 0 pin) should score 0
+- An all one game (20 times 1 pin) should score 20
+- A spare followed by a 3 should score 16
+- A strike followed by a 3 and a 4 should score 24
+- The perfect game (12 times 10) should score 300
 
 **Things to know:**
 - The code takes user input
