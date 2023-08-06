@@ -13,7 +13,7 @@ A Bowling game calculator developed using Java originally in Intellij IDE
 - The code takes user input
 - While providing the input make sure to give numbers from 0 to 10 for each round in every frame.
 - Also make sure the sum of 2 rounds in each frame is not greater than 10
-- If 10 is given as input for round 1 of any frame. Round 2 **gets automatically skipped** since its a Strike.
+- If 10 is given as input for round 1 of any frame. **Round 2 gets automatically skipped** since its a Strike.
 
 
 **An Example for user input score:**  
